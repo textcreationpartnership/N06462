@@ -111,13 +111,13 @@
    <text xml:lang="eng">
       <front>
          <div type="half_title">
-            <pb facs="tcp:008194_0000_102E4A8F0D7403F8"/>
-            <pb facs="tcp:008194_0001_102E4A4923068D80"/>
+            <pb facs="unknown:008194_0000_102E4A8F0D7403F8"/>
+            <pb facs="unknown:008194_0001_102E4A4923068D80"/>
             <p>
                <hi>GALLIC</hi> PERFIDY: A Poem.</p>
          </div>
          <div type="title_page">
-            <pb facs="tcp:008194_0002_102E4A4F1EAF06B8"/>
+            <pb facs="unknown:008194_0002_102E4A4F1EAF06B8"/>
             <p>
                <hi>GALLIC</hi> PERFIDY: A Poem.</p>
             <p>
@@ -128,7 +128,7 @@
                <hi>BOSTON:</hi> NEW-ENGLAND: Printed and Sold by <hi>Benjamin Mecom,</hi> at The New Printing-Office, <hi>July</hi> 13. 1758. — Where may be had that <hi>noted</hi> little Book, called <hi>Father</hi> ABRA<g ref="char:EOLhyphen"/>HAM'S SPEECH.</p>
          </div>
          <div type="argument">
-            <pb facs="tcp:008194_0003_102E4A50A4DEB498"/>
+            <pb facs="unknown:008194_0003_102E4A50A4DEB498"/>
             <head>The <hi>Argument.</hi>
             </head>
             <p>
@@ -137,7 +137,7 @@
       </front>
       <body>
          <div type="poem">
-            <pb n="7" facs="tcp:008194_0004_102E4A53517D3BE0"/>
+            <pb n="7" facs="unknown:008194_0004_102E4A53517D3BE0"/>
             <head>
                <hi>Gallic</hi> PERFIDY, <hi>&amp;c.</hi>
             </head>
@@ -162,7 +162,7 @@
                <l>Of ſolemn and capitulated Terms.</l>
             </lg>
             <lg>
-               <pb n="8" facs="tcp:008194_0005_102E4A5719E6A938"/>
+               <pb n="8" facs="unknown:008194_0005_102E4A5719E6A938"/>
                <l>Amazing Perfidy! —</l>
                <l>— Not to invoke</l>
                <l>A vulgar Muſe. — Ye Powers of Fury lend</l>
@@ -189,7 +189,7 @@
                <l>Graceful to march (purſuant to the Terms</l>
                <l>Capitulated with the Victor <hi>Gaul</hi>)</l>
                <l n="40">
-                  <pb n="9" facs="tcp:008194_0006_102E4A5B0CBF61C8"/>
+                  <pb n="9" facs="unknown:008194_0006_102E4A5B0CBF61C8"/>
 With ſtreaming Enſigns waving in the Air,</l>
                <l>And ſounding Drums; with Arms and Baggage fraught,</l>
             </lg>
@@ -218,7 +218,7 @@ With ſtreaming Enſigns waving in the Air,</l>
                <l>Ruſh on their unforewarn'd defenceleſs Prey.</l>
             </lg>
             <lg>
-               <pb n="10" facs="tcp:008194_0007_102E4A5DC7D50910"/>
+               <pb n="10" facs="unknown:008194_0007_102E4A5DC7D50910"/>
                <l>And now the Scene of Death begins, for, Oh!</l>
                <l>Amaz'd on every Side th' unwary Troops</l>
                <l>Fall hapleſs Victims to the Savage Furies.</l>
@@ -245,7 +245,7 @@ With ſtreaming Enſigns waving in the Air,</l>
                <l>My Numbers fail me! Oh! it is too much!</l>
                <l>But up, my Soul, and take another View.</l>
                <l n="85">
-                  <pb n="11" facs="tcp:008194_0008_102E4A5F4CEB4BF8"/>
+                  <pb n="11" facs="unknown:008194_0008_102E4A5F4CEB4BF8"/>
 See, diſcompos'd, the naked flying Troops</l>
                <l>Aſylum ſeek in Woods and miry Swamps;</l>
                <l>On bended Knees implore the <hi>Gallic</hi> Aid;</l>
@@ -272,7 +272,7 @@ See, diſcompos'd, the naked flying Troops</l>
                <l>And thorny Brakes and miry Bogs, the Haunt</l>
                <l>Of hiſſing Serpents, and envenom'd Toads;</l>
                <l>
-                  <pb n="12" facs="tcp:008194_0009_102E4A61E66043B8"/>
+                  <pb n="12" facs="unknown:008194_0009_102E4A61E66043B8"/>
 It ſeem'd the ſolemn Exile of the damn'd:</l>
                <l>Hither, with awful Pace, they me conduct</l>
                <l n="110">And, with terrific Menace, ſat me down</l>
@@ -299,7 +299,7 @@ It ſeem'd the ſolemn Exile of the damn'd:</l>
                <l>Now had we near twelve Furlongs run, when lo!</l>
                <l n="130">O Life to Death! behold again the Lake,</l>
                <l>
-                  <pb n="13" facs="tcp:008194_0010_102E4A66AD5024B8"/>
+                  <pb n="13" facs="unknown:008194_0010_102E4A66AD5024B8"/>
 Ill-fated Waters, — but to me auſpicious;</l>
                <l>Thither we bent our Courſe and reach'd the Shore.</l>
                <l>Sight unexpected! — fifty Captives there,</l>
@@ -326,7 +326,7 @@ Ill-fated Waters, — but to me auſpicious;</l>
                <l>And ſet the Whole into a mighty Blaze:</l>
                <l>And now the curling Flames aſcend in Spires,</l>
                <l>
-                  <pb n="14" facs="tcp:008194_0011_102E4A6998CF8830"/>
+                  <pb n="14" facs="unknown:008194_0011_102E4A6998CF8830"/>
 And Pyramids of Smoke obſcure the Stars,</l>
                <l n="155">Aſſault the Skies, and mingle with the Clouds.</l>
                <l>Then with diſtorted Grin and Viſage fierce,</l>
@@ -354,7 +354,7 @@ And Pyramids of Smoke obſcure the Stars,</l>
                <l>Seven Days and Nights of Horror thus paſs'd o'er</l>
                <l>Our Heads; when lo! O Soul-reviving Sight!</l>
                <l>
-                  <pb n="15" facs="tcp:008194_0012_102E4A6C30D1D168"/>
+                  <pb n="15" facs="unknown:008194_0012_102E4A6C30D1D168"/>
 The eighth, as we purſue our wonted Courſe,</l>
                <l>See all <hi>Montreal</hi> open to our View;</l>
                <l>Where ſovereign Liquor bought our Liberty;</l>
